@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a950be41-ff3a-46fb-8572-848fbb08a30c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -62,6 +63,7 @@
         <option value="$PROJECT_DIR$/src/App.vue" />
         <option value="$PROJECT_DIR$/src/style/index.scss" />
         <option value="$PROJECT_DIR$/src/style/reset.scss" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -146,12 +148,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520845843585</updated>
-      <workItem from="1520845844817" duration="5303000" />
+      <workItem from="1520845844817" duration="5663000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5303000" />
+    <option name="totallyTimeSpent" value="5663000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1932" height="1056" extended-state="0" />
